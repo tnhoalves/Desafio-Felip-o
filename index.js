@@ -1,10 +1,10 @@
 //definindo as variaveis,
-let nomeDoHeroi = "luca";
-let xpdoHeroi = "40";
+let nomeDoHeroi = "Nome Escolhido";
+let xpdoHeroi = "Quantidade de XP";
 let raquedoHeroi = xpdoHeroi;
 
 if (raquedoHeroi <= 999) {
-    xpdoHeroi = "Unranqued"
+    xpdoHeroi = "Unranqued"   //adicionei essa opção, "haha". Espero que goste
   } else if (raquedoHeroi <=1000) {
     xpdoHeroi = "Ferro"
   } else if (raquedoHeroi <= 2000) {
